@@ -1,0 +1,7 @@
+name: playground
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - protobuf
+  - python-confluent-kafka
